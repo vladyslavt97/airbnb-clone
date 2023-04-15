@@ -13,4 +13,7 @@ Interesting way of passing the values as childre:
 
 5. create a model
 
-1:51:16
+2:32:59
+https://www.youtube.com/watch?v=c_-b_isI4vg&list=WL&index=2&t=158s
+
+stopped before social logins
